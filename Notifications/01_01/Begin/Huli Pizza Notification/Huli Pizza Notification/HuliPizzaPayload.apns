@@ -1,7 +1,0 @@
-{
-    "aps":{
-        "alert":"Enter your message",
-        "badge":1,
-        "sound":"default"
-    }
-}
